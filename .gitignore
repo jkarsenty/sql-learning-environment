@@ -1,0 +1,39 @@
+# Compiled python modules
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit specific
+.streamlit/
+secrets.toml
+
+# Database files
+*.db
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build and distribution
+dist/
+build/
+*.egg-info/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+0_old/
